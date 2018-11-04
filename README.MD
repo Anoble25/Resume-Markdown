@@ -13,7 +13,7 @@ Education
 
 **Western Governor's University**   
 BS, Software Development   
-March 2018-September 2018 _(Graduated from the program in one six month term.)_   
+March 2018-September 2018    
     
     Curriculum included projects involving:
     • C++/Java desktop applications
@@ -64,7 +64,6 @@ April 2011 – April 2017
 
 Projects
 --------
-
 #### Current Projects ####  
 * SmartestOfYourFriends - _a timed event-based trivia app designed for mobile using Flutter and Dart._ 
 
